@@ -4,6 +4,19 @@ A polyglot microservices project: a **Java Spring Boot** transaction API, an **e
 
 > **Status: MVP / demo-grade.** Built as a portfolio project — auth, transactions, and the fraud pipeline are functionally real and run end-to-end via Docker Compose. 
 ---
+## 📸 Screenshots
+
+### SecurePay Dashboard
+![SecurePay Dashboard](./images/dashboard.png)
+
+### Docker Desktop - build
+![Docker Desktop - Build History](./images/docker_desktop_.png)
+
+### Docker Images
+![Docker Images](./images/Docker_images.png)
+
+---
+
 
 ## 1. What SecurePay Does
 
