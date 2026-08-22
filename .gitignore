@@ -1,0 +1,22 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Python
+ai-agent/__pycache__/
+ai-agent/**/__pycache__/
+ai-agent/.pytest_cache/
+*.pyc
+
+# Env
+.env
+*.env.local
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
