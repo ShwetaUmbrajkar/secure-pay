@@ -10,13 +10,12 @@ A polyglot microservices project: a **Java Spring Boot** transaction API, an **e
 ![SecurePay Dashboard](./images/dashboard.png)
 
 ### Docker Desktop - build
-![Docker Desktop - Build History](./images/docker_desktop_.png)
+![Docker Desktop - Build History](./images/docker_desktop.png)
 
 ### Docker Images
 ![Docker Images](./images/Docker_images.png)
 
 ---
-
 
 ## 1. What SecurePay Does
 
@@ -198,6 +197,7 @@ secure-pay/
 ├── backend/       # Spring Boot REST API
 ├── ai-agent/      # Python FastAPI Fraud Investigation Agent
 ├── frontend/      # React dashboard
+├── images
 ├── docker-compose.yml
 ├── .github/workflows/ci.yml
 └── .env.example
